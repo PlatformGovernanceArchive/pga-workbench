@@ -1,0 +1,890 @@
+
+This policy is effective as of November 26, 2008.
+
+
+**Facebook Principles**
+
+
+We built Facebook to make it easy to share information with your friends and people around you. We understand
+
+
+you may not want everyone in the world to have the information you share on Facebook; that is why we give you
+
+
+control of your information. Our default privacy settings limit the information displayed in your profile to your
+
+
+networks and other reasonable community limitations that we tell you about.
+
+
+Facebook follows two core principles:
+
+
+**1. You should have control over your personal information.** 
+
+
+Facebook helps you share information with your friends and people around you. You choose what information you
+
+
+put in your profile, including contact and personal information, pictures, interests and groups you join. And you
+
+
+control the users with whom you share that information through the privacy settings on the Privacy page.
+
+
+**2. You should have access to the information others want to share.** 
+
+
+There is an increasing amount of information available out there, and you may want to know what relates to you,
+
+
+your friends, and people around you. We want to help you easily get that information.
+
+
+Sharing information should be easy. And we want to provide you with the privacy tools necessary to control how
+
+
+and with whom you share that information. If you have questions or ideas, please check out our privacy help page.
+
+
+**Safe Use of Facebook**
+
+
+For information for users and parents about staying safe on Facebook, click here.
+
+
+**Facebook's Privacy Policy**
+
+
+Facebook's Privacy Policy is designed to help you understand how we collect and use the personal information you
+
+
+decide to share, and help you make informed decisions when using Facebook, located at www.facebook.com and its
+
+
+directly associated domains (collectively, "Facebook" or "Website")
+
+
+By using or accessing Facebook, you are accepting the practices described in this Privacy Policy.
+
+
+Facebook is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose
+
+
+mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This
+
+
+privacy statement covers the site www.facebook.com and its directly associated domains. Because this Web site
+
+
+wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its
+
+
+privacy practices reviewed for compliance by TRUSTe.
+
+
+If you have questions regarding this statement, please contact us here. If you do not receive acknowledgement of
+
+
+your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe Watchdog at
+
+
+http://www.truste.org/consumers/watchdog\_complaint.php. TRUSTe will then serve as a liaison with us to resolve
+
+
+your concerns.
+
+
+**EU Safe Harbor Participation**
+
+
+We participate in the EU Safe Harbor Privacy Framework as set forth by the United States Department of
+
+
+Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for
+
+
+disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding
+
+
+our compliance with the Safe Harbor you should visit our Help Center. If contacting us does not resolve your
+
+
+complaint, you may raise your complaint with TRUSTe at http://www.truste.org/users/users\_watchdog\_intro.html.
+
+
+**The Information We Collect**
+
+
+When you visit Facebook you provide us with two types of information: personal information you knowingly choose
+
+
+to disclose that is collected by us and Web Site use information collected by us as you interact with our Web Site.
+
+
+When you register with Facebook, you provide us with certain personal information, such as your name, your email
+
+
+address, your telephone number, your address, your gender, schools attended and any other personal or
+
+
+preference information that you provide to us.
+
+
+When you enter Facebook, we collect your browser type and IP address. This information is gathered for all
+
+
+Facebook visitors. In addition, we store certain information from your browser using "cookies." A cookie is a piece of
+
+
+data stored on the user's computer tied to information about the user. We use session ID cookies to confirm that
+
+
+users are logged in. These cookies terminate once the user closes the browser. By default, we use a persistent
+
+
+cookie that stores your login ID (but not your password) to make it easier for you to login when you come back to
+
+
+Facebook. You can remove or block this cookie using the settings in your browser if you want to disable this
+
+
+convenience feature.
+
+
+When you use Facebook, you may set up your personal profile, form relationships, send messages, perform
+
+
+searches and queries, form groups, set up events, add applications, and transmit information through various
+
+
+channels. We collect this information so that we can provide you the service and offer personalized features. In
+
+
+most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see
+
+
+your friend list. When you update information, we usually keep a backup copy of the prior version for a reasonable
+
+
+period of time to enable reversion to the prior version of that information.
+
+
+ 
+
+
+Sign Up
+
+
+Facebook helps you connect and share with the people in your life.
+
+
+Keep me logged in
+
+
+Forgot your password?
+
+
+**Login**
+
+
+
+You post User Content (as defined in the Facebook Terms of Use) on the Site at your own risk. Although we allow
+
+
+you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or
+
+
+impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and
+
+
+information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed
+
+
+by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures
+
+
+contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may
+
+
+remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
+
+
+Any improper collection or misuse of information provided on Facebook is a violation of the Facebook Terms of
+
+
+Service and should be reported through the Help Center.
+
+
+If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to
+
+
+send the invitation, such as your friend's email address. We will send your friend an email or instant message in your
+
+
+name inviting him or her to visit the site, and may send up to two reminders to them. Facebook stores this
+
+
+information to send invitations and reminders, to register a friend connection if your invitation is accepted, to allow
+
+
+you to see invitations you have sent, and to track the success of our referral program. Your friend may contact us
+
+
+through the Help Center to request that we remove this information from our database.
+
+
+Facebook may also collect information about you from other sources, such as newspapers, blogs, instant messaging
+
+
+services, and other users of the Facebook service through the operation of the service (e.g., photo tags) in order
+
+
+to provide you with more useful information and a more personalized experience.
+
+
+By using Facebook, you are consenting to have your personal data transferred to and processed in the United
+
+
+States.
+
+
+**Children Under Age 13**
+
+
+Facebook does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly
+
+
+allow such persons to register. If you are under 13, please do not attempt to register for Facebook or send any
+
+
+information about yourself to us, including your name, address, telephone number, or email address. No one under
+
+
+age 13 may provide any personal information to or on Facebook. In the event that we learn that we have collected
+
+
+personal information from a child under age 13 without verification of parental consent, we will delete that
+
+
+information as quickly as possible. If you believe that we might have any information from or about a child under 13,
+
+
+please contact us through the form on our privacy help page.
+
+
+**Children Between the Ages of 13 and 18**
+
+
+We recommend that minors 13 years of age or older ask their parents for permission before sending any information
+
+
+about themselves to anyone over the Internet.
+
+
+**Use of Information Obtained by Facebook**
+
+
+When you register with Facebook, you create your own profile and privacy settings. Your profile information, as well
+
+
+as your name, email and photo, are displayed to people in the networks specified in your privacy settings to enable
+
+
+you to connect with people on Facebook. We may occasionally use your name and email address to send you
+
+
+notifications regarding new services offered by Facebook that we think you may find valuable.
+
+
+Profile information is used by Facebook primarily to be presented back to and edited by you when you access the
+
+
+service and to be presented to others permitted to view that information by your privacy settings. In some cases
+
+
+where your privacy settings permit it (e.g., posting to your wall), other Facebook users may be able to supplement
+
+
+your profile.
+
+
+Profile information you submit to Facebook will be available to users of Facebook who belong to at least one of the
+
+
+networks you allow to access the information through your privacy settings (e.g., school, geography, friends of
+
+
+friends). Your name, network names, and profile picture thumbnail will be available in search results across the
+
+
+Facebook network and those limited pieces of information may be made available to third party search engines. This
+
+
+is primarily so your friends can find you and send a friend request. People who see your name in searches, however,
+
+
+will not be able to access your profile information unless they have a relationship to you (friend, friend of friend,
+
+
+member of your networks, etc.) that allows such access based on your privacy settings.
+
+
+Facebook may send you service-related announcements from time to time through the general operation of the
+
+
+service. For instance, if a friend sends you a new message or poke, or someone posts on your wall, you may receive
+
+
+an email alerting you to that fact.
+
+
+Generally, you may opt out of such emails from the Notifications page, though Facebook reserves the right to send
+
+
+you notices about your account even if you opt out of all voluntary email notifications.
+
+
+Facebook may use information in your profile without identifying you as an individual to third parties. We do this for
+
+
+purposes such as aggregating how many people in a network like a band or movie and personalizing advertisements
+
+
+and promotions so that we can provide you Facebook. We believe this benefits you. You can know more about the
+
+
+world around you and, where there are advertisements, they're more likely to be interesting to you. For example, if
+
+
+you put a favorite movie in your profile, we might serve you an advertisement highlighting a screening of a similar
+
+
+one in your town. But we don't tell the movie company who you are.
+
+
+We may use information about you that we collect from other sources, including but not limited to newspapers and
+
+
+Internet sources such as blogs, instant messaging services, Facebook Platform developers and other users of
+
+
+Facebook, to supplement your profile. Where such information is used, we generally allow you to specify in your
+
+
+privacy settings that you do not want this to be done or to take other actions that limit the connection of this
+
+
+information to your profile (e.g., removing photo tag links).
+
+
+**Sharing Your Information with Third Parties**
+
+
+Facebook is about sharing information with others — friends and people in your networks — while providing you with
+
+
+privacy settings that restrict other users from accessing your information. We allow you to choose the information
+
+
+you provide to friends and networks through Facebook. Our network architecture and your privacy settings allow
+
+
+you to make informed choices about who has access to your information. We do not provide contact information to
+
+
+third party marketers without your permission. We share your information with third parties only in limited
+
+
+circumstances where we believe such sharing is 1) reasonably necessary to offer the service, 2) legally required or,
+
+
+3) permitted by you. For example:
+
+
+Your News Feed and Wall may aggregate the information you provide and make it available to your friends and
+
+
+network members according to your privacy settings. You may set your preferences for your News Feed and<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>Wall on<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>your Privacy Settings page.
+
+
+Unlike most sites on the Web, Facebook limits access to site information by third party search engine "crawlers"<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>(e.g.<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>Google, Yahoo, MSN, Ask). Facebook takes action to block access by these engines to personal<span style="background-color: red;">
+
+
+
+information</span> <span style="background-color: green;">i</span><span style="background-color: red;">beyo</span>n<span style="background-color: red;">d</span><span style="background-color: green;">formation</span> <span style="background-color: green;">beyond
+
+
+
+</span>your name, profile picture, and limited aggregated data about your profile (e.g. number of<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>wall postings).
+
+
+We may provide information to service providers to help us bring you the services we offer. Specifically, we may<span style="background-color: red;">
+
+
+use</span> <span style="background-color: green;">use
+
+
+</span>third parties to facilitate our business, such as to host the service at a co-location facility for servers, to<span style="background-color: red;">
+
+
+send</span> <span style="background-color: red;">out</span><span style="background-color: green;">send</span> <span style="background-color: green;">out
+
+
+</span>email updates about Facebook, to remove repetitive information from our user lists, to process<span style="background-color: red;">
+
+
+payments</span> <span style="background-color: red;">for</span><span style="background-color: green;">payments</span> <span style="background-color: green;">for
+
+
+</span>products or services, to offer an online job application process, or to provide search results or<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>links (including<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>sponsored links). In connection with these offerings and business operations, our service<span style="background-color: red;">
+
+
+providers</span> <span style="background-color: red;">may have access to your </span>p<span style="background-color: red;">e</span>r<span style="background-color: red;">s</span>o<span style="background-color: green;">v</span><span style="background-color: red;">nal </span>i<span style="background-color: red;">nformation for use for a limite</span>d<span style="background-color: red;"> tim</span>e<span style="background-color: green;">r</span><span style="background-color: red;"> in connection with the</span>s<span style="background-color: green;"> may hav</span>e<span style="background-color: green;"> access</span>
+
+
+<span style="background-color: green;">to your personal information for use for a limited time in connection with these </span>business activities. Where we utilize<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>third parties for the processing of any personal information, we implement<span style="background-color: red;">
+
+
+reasonable</span> <span style="background-color: red;">cont</span>r<span style="background-color: red;">actual and t</span>e<span style="background-color: red;">chnic</span>a<span style="background-color: green;">sonab</span>l<span style="background-color: green;">e</span> <span style="background-color: green;">contractual and technical
+
+
+</span>protections limiting the use of that information to the Facebook-specified<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>purposes.
+
+
+If you, your friends, or members of your network use any third-party applications developed using the<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>Facebook<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>Platform ("Platform Applications"), those Platform Applications may access and share certain<span style="background-color: red;">
+
+
+information</span> <span style="background-color: red;">ab</span><span style="background-color: green;">inf</span>o<span style="background-color: red;">u</span><span style="background-color: green;">rma</span>t<span style="background-color: green;">i</span><span style="background-color: red;"> y</span>o<span style="background-color: red;">u</span><span style="background-color: green;">n</span> <span style="background-color: green;">about you
+
+
+</span>with others in accordance with your privacy settings. You may opt-out of any sharing of<span style="background-color: red;">
+
+
+certain</span> <span style="background-color: red;">o</span><span style="background-color: green;">ce</span>r<span style="background-color: red;"> all informa</span>t<span style="background-color: green;">a</span>i<span style="background-color: red;">o</span>n <span style="background-color: green;">or all information
+
+
+</span>through Platform Applications on the Privacy Settings page. In addition, third party<span style="background-color: red;">
+
+
+developers</span> <span style="background-color: red;">who have create</span>d<span style="background-color: green;">evelopers</span> <span style="background-color: green;">who have created
+
+
+</span>and operate Platform Applications ("Platform Developers"), may also have access<span style="background-color: red;">
+
+
+to</span> <span style="background-color: red;">your personal informa</span>t<span style="background-color: red;">i</span>o<span style="background-color: red;">n</span> <span style="background-color: green;">your personal information
+
+
+</span>(excluding your contact information) if you permit Platform Applications to access<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>your data. Before allowing any<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>Platform Developer to make any Platform Application available to you, Facebook<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>requires the Platform Developer to<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>enter into an agreement which, among other things, requires them to<span style="background-color: red;">
+
+
+respect</span> <span style="background-color: red;">you</span>r<span style="background-color: red;"> privacy s</span>e<span style="background-color: red;">tting</span>s<span style="background-color: green;">pe</span><span style="background-color: red;"> and stri</span>ct<span style="background-color: red;">ly</span> <span style="background-color: green;">your</span><span style="background-color: red;">limits</span> <span style="background-color: green;">privacy settings and strictly limits
+
+
+</span>their collection, use, and storage of your information. However,<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>while we have undertaken contractual and technical<span style="background-color: red;"> steps to restrict possible misuse of such information by such</span>
+
+
+<span style="background-color: green;">steps to restrict possible misuse of such information by such </span>Platform Developers, we of course cannot and do not<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>guarantee that all Platform Developers will abide by such<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>agreements. Please note that Facebook does not screen or<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>approve Platform Developers and cannot control<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>how such Platform Developers use any personal information that<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>they may obtain in connection with Platform<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>Applications. In addition, Platform Developers may require you to sign<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>up to their own terms of service, privacy<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>policies or other policies, which may give them additional rights or impose<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>additional obligations on you, so please<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>make sure to review these terms and policies carefully before using any<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>Platform Application. You can report any<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>suspected misuse of information through the Facebook Platform and we will<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>investigate any such claim and take<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>appropriate action against the Platform Developer up to and including<span style="background-color: red;"> terminating their participation in the</span>
+
+
+<span style="background-color: green;">terminating their participation in the </span>Facebook Platform and/or other formal legal action.
+
+
+We occasionally provide demonstration accounts that allow non-users a glimpse into the Facebook world. Such
+
+
+accounts have only limited capabilities (e.g., messaging is disabled) and passwords are changed regularly to limit
+
+
+possible misuse.
+
+
+We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>orders, or<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>in compliance with applicable laws. We do not reveal information until we have a good faith belief that<span style="background-color: red;">
+
+
+an</span> <span style="background-color: red;">inform</span>a<span style="background-color: red;">tio</span>n <span style="background-color: green;">information
+
+
+</span>request by law enforcement or private litigants meets applicable legal standards. Additionally, we<span style="background-color: red;">
+
+
+may</span> <span style="background-color: green;">m</span><span style="background-color: red;">sh</span>a<span style="background-color: green;">y</span><span style="background-color: red;">re</span> <span style="background-color: green;">sh</span>a<span style="background-color: green;">re</span><span style="background-color: red;">ccount</span> <span style="background-color: green;">account
+
+
+</span>or other information when we believe it is necessary to comply with law, to protect our<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>interests or property, to<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>prevent fraud or other illegal activity perpetrated through the Facebook service or<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>using the Facebook name, or to<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>prevent imminent bodily harm. This may include sharing information with other<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>companies, lawyers, agents or<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>government agencies.
+
+
+We let you choose to share information with marketers or electronic commerce providers through on-site offers.
+
+
+We may offer stores or provide services jointly with other companies on Facebook. You can tell when another
+
+
+company is involved in any store or service provided on Facebook, and we may share customer information with<span style="background-color: red;">
+
+
+that</span> <span style="background-color: green;">that
+
+
+</span>company in connection with your use of that store or service.
+
+
+Facebook Beacon is a means of sharing actions you have taken on third party sites, such as when you make a
+
+
+purchase or post a review, with your friends on Facebook. In order to provide you as a Facebook user with<span style="background-color: red;">
+
+
+clear</span> <span style="background-color: red;">dis</span>cl<span style="background-color: red;">osur</span>e<span style="background-color: red;"> of the </span>a<span style="background-color: red;">ctivity info</span>r<span style="background-color: red;">mation being collected on third party sites and potentially shared with your</span>
+
+
+<span style="background-color: red;">frien</span>d<span style="background-color: green;">i</span>s<span style="background-color: red;"> </span><span style="background-color: green;">cl</span>o<span style="background-color: red;">n</span><span style="background-color: green;">sure</span> <span style="background-color: green;">of the activity information being collected on third party sites and potentially shared with your friends on
+
+
+</span>Facebook, we collect certain information from that site and present it to you after you have<span style="background-color: red;">
+
+
+completed</span> <span style="background-color: red;">an a</span>c<span style="background-color: red;">ti</span>o<span style="background-color: red;">n</span><span style="background-color: green;">mpleted</span> <span style="background-color: red;">o</span><span style="background-color: green;">a</span>n <span style="background-color: green;">action on
+
+
+</span>that site. You have the choice to have Facebook discard that information, or to share it<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>with your friends.
+
+
+To learn more about the operation of the service, we encourage you to read the tutorial here. To opt out of the
+
+
+service altogether, click here.
+
+
+Like many other websites that interact with third party sites, we may receive some information even if you are
+
+
+logged out from Facebook, or that pertains to non-Facebook users, from those sites in conjunction with the<span style="background-color: red;">
+
+
+technical</span> <span style="background-color: green;">technical
+
+
+</span>operation of the system. In cases where Facebook receives information on users that are not logged<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>in, or on non-<span style="background-color: green;">
+
+
+</span>Facebook users, we do not attempt to associate it with individual Facebook accounts and will<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>discard it.
+
+
+If the ownership of all or substantially all of the Facebook business, or individual business units owned by<span style="background-color: green;"> </span><span style="background-color: red;">
+
+
+</span>Facebook,<span style="background-color: red;"> </span><span style="background-color: green;">
+
+
+</span>Inc., were to change, your user information may be transferred to the new owner so the service can<span style="background-color: red;">
+
+
+continue</span> <span style="background-color: green;">continue
+
+
+</span>operations. In any such transfer of information, your user information would remain subject to the<span style="background-color: red;">
+
+
+promises</span> <span style="background-color: green;">pro</span>m<span style="background-color: red;">ade </span>i<span style="background-color: red;">n</span><span style="background-color: green;">ses</span> <span style="background-color: green;">made in
+
+
+</span>any pre-existing Privacy Policy.
+
+
+When you use Facebook, certain information you post or share with third parties (e.g., a friend or someone in your
+
+
+network), such as personal information, comments, messages, photos, videos, Marketplace listings or other
+
+
+information, may be shared with other users in accordance with the privacy settings you select. All such sharing of
+
+
+information is done at your own risk. Please keep in mind that if you disclose personal information in your profile or
+
+
+when posting comments, messages, photos, videos, Marketplace listings or other items , this information may
+
+
+become publicly available.
+
+
+**Links**
+
+
+Facebook may contain links to other websites. We are of course not responsible for the privacy practices of other
+
+
+web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each
+
+
+and every web site that collects personally identifiable information. This Privacy Policy applies solely to information
+
+
+collected by Facebook.
+
+
+**Third Party Advertising**
+
+
+Advertisements that appear on Facebook are sometimes delivered (or "served") directly to users by third party
+
+
+advertisers. They automatically receive your IP address when this happens. These third party advertisers may also
+
+
+download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as
+
+
+"1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the
+
+
+advertising network to recognize your computer each time they send you an advertisement in order to measure the
+
+
+effectiveness of their ads and to personalize advertising content. In this way, they may compile information about
+
+
+where individuals using your computer or browser saw their advertisements and determine which advertisements are
+
+
+clicked. Facebook does not have access to or control of the cookies that may be placed by the third party
+
+
+advertisers. Third party advertisers have no access to your contact information stored on Facebook unless you
+
+
+choose to share it with them.
+
+
+<span style="background-color: red;">
+</span>This privacy policy covers the use of cookies by Facebook and does not cover the use of cookies or other tracking
+
+
+technologies by any of its advertisers.
+
+
+**Changing or Removing Information**<span style="background-color: green;">
+</span>
+
+
+Access and control over most personal information on Facebook is readily available through the profile editing tools.
+
+
+Facebook users may modify or delete any of their profile information at any time by logging into their account.
+
+
+Information will be updated immediately. Individuals who wish to deactivate their Facebook account may do so on
+
+
+the My Account page. Removed information may persist in backup copies for a reasonable period of time but will not
+
+
+be generally available to members of Facebook.
+
+
+Where you make use of the communication features of the service to share information with other individuals on
+
+
+Facebook, however, (e.g., sending a personal message to another Facebook user) you generally cannot remove
+
+
+such communications.
+
+
+**Security**
+
+
+Facebook takes appropriate precautions to protect our users' information. Your account information is located on a
+
+
+secured server behind a firewall. When you enter sensitive information (such as credit card number or your
+
+
+password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to
+
+
+http://en.wikipedia.org/wiki/Secure\_Sockets\_Layer). Because email and instant messaging are not recognized as
+
+
+secure communications, we request that you not send private information to us by email or instant messaging
+
+
+services. If you have any questions about the security of Facebook Web Site, please contact us through the Help
+
+
+Center.
+
+
+**Terms of Use, Notices and Revisions**
+
+
+Your use of Facebook, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use
+
+
+and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve
+
+
+the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will
+
+
+take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make
+
+
+changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make
+
+
+material changes to this policy, we will notify you here, by email, or through notice on our home page. We
+
+
+encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless
+
+
+stated otherwise, our current privacy policy applies to all information that we have about you and your account.
+
+
+**Contacting the Web Site**
+
+
+If you have any questions about this privacy policy, please visit our privacy help page. You may also contact us by
+
+
+mail at 1601 S California Avenue, Palo Alto, CA 94304.
+
+
+Facebook © 2009
+
+
+English (US)
+
+
+About Advertising Developers Careers Terms Blog Widgets ■ Find Friends Privacy
+
+
+Mobile Help
+
